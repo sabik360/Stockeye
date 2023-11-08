@@ -1,4 +1,4 @@
-# STockeye - Stock Prediction using Machine Learning
+# Stockeye - Stock Prediction using Machine Learning
 
 ![grab-landing-page](https://raw.githubusercontent.com/sabik360/Stockeye/main/Stockeye%20(1).png)
 
