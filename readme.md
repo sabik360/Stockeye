@@ -1,4 +1,6 @@
-# Stock Prediction using Machine Learning
+# STockeye - Stock Prediction using Machine Learning
+
+![grab-landing-page](https://raw.githubusercontent.com/sabik360/Stockeye/main/Stockeye%20(1).png)
 
 A machine learning model, which will predict and forecast the prices of NIFTY-50 index of the Indian Stock market. 
 
